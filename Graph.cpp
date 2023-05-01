@@ -1,3 +1,6 @@
+#Class-based approach to making a graph by reading input from a file.
+
+
 #include <iostream>
 #include <fstream>
 #include <sstream>
