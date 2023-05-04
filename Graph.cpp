@@ -1,4 +1,4 @@
-#Class-based approach to making a graph by reading input from a file.
+//Class-based approach to making a graph by reading input from a file.
 
 
 #include <iostream>
@@ -72,7 +72,7 @@ class graph
 
         }
         void set_delivery_time( int x) {this->delivery_time = x;}
-        int get_delivery_time(){return this->delivery_time; }
+        int get_delivery_time() {return this->delivery_time; }
         void create_graph(string filename)
         {
             
